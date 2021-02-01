@@ -1,0 +1,15 @@
+[
+  {"IssueID" :  0, "Issue" : "Unable to connect to the internet"},
+  {"IssueID" :  1, "Issue" : "Unable to log in"},
+  {"IssueID" :  2, "Issue" : "Accidental file deletion"},
+  {"IssueID" :  3, "Issue" : "Slow computer"},
+  {"IssueID" :  4, "Issue" : "Network printer is not printing"},
+  {"IssueID" :  5, "Issue" : "The internet is slow"},
+  {"IssueID" :  6, "Issue" : "Our Wi-Fi network keeps dropping my device"},
+  {"IssueID" :  7, "Issue" : "My computer is frozen"}, 
+  {"IssueID" :  8, "Issue" : "Permission required to install application"},
+  {"IssueID" :  9, "Issue" : "Windows Blue Screen of Death"},
+  {"IssueID" : 10, "Issue" : "Computer won't boot"},
+  {"IssueID" : 11, "Issue" : "Computer keeps rebooting itself"},
+  {"IssueID" : 12, "Issue" : "New hire onboarding"}
+]

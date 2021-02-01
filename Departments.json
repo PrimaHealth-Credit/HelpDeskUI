@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Account Services",
+    "EmailAddress": "account-services@primahealthcredit.com",
+    "DepartmentID": 0
+  },
+  {
+    "Name": "Marketing",
+    "EmailAddress": "marketing@primahealthcredit.com",
+    "DepartmentID": 1
+  },
+  {
+    "Name": "Sales",
+    "EmailAddress": "sales@primahealthcredit.com",
+    "DepartmentID": 2
+  },
+  {
+    "Name": "Loan Ops",
+    "EmailAddress": "loan-ops@primahealthcredit.com",
+    "DepartmentID": 3
+  },
+  {
+    "Name": "Product",
+    "EmailAddress": "product@primahealthcredit.com",
+    "DepartmentID": 4
+  },
+  {
+    "Name": "Accounting and Finance",
+    "EmailAddress": "accounting-finance@primahealthcredit.com",
+    "DepartmentID": 5
+  },
+  {
+    "Name": "Human Resources",
+    "EmailAddress": "hr@primahealthcredit.com",
+    "DepartmentID": 6
+  },
+  {
+    "Name": "Risk and Compliance",
+    "EmailAddress": "risk-compliance@primahealthcredit.com",
+    "DepartmentID": 7
+  },
+  {
+    "Name": "Technology",
+    "EmailAddress": "technology@primahealthcredit.com",
+    "DepartmentID": 8
+  }
+]
